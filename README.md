@@ -5,4 +5,6 @@ Develop an end-to-end e-commerce BI pipeline that extracts and transforms databa
 ### E‑Commerce Database Schema
 [![Database Schema](https://dbdiagram.io/api/image/embedded/e-commerce-database-design-6947f7a74bbde0fd74ed312c.svg)](https://dbdiagram.io/d/e-commerce-database-design-6947f7a74bbde0fd74ed312c)
 
+<img width="946" height="776" alt="image" src="https://github.com/user-attachments/assets/f9bc403f-aa76-4364-8cca-8c4d3dfb5e4e" />
+
   
