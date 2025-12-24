@@ -6,6 +6,7 @@
 | **customer_id** | object | Unique identifier for each customer. |
 | **product_id** | object | Unique identifier for each product. |
 | **campaign_id** | object | Unique identifier for the marketing campaign associated with the order. |
+| **campaign_type** | object | Classification of marketing campaigns based on their strategy or objective. |
 | **channel_id** | object | Identifier for the acquisition channel (e.g., Paid Search, Social, Email). |
 | **platform_id** | object | Identifier for the advertising platform (e.g., Google Ads, Facebook Ads). |
 | **date** | object | Date the transaction or campaign activity occurred. Used for time-series analysis. |
