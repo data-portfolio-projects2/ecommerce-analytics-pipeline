@@ -1,4 +1,4 @@
-# ecommerce-analytics-pipeline
+# E-Commerce BI Project – Analysis & Target KPIs Summary
 Develop an end-to-end e-commerce BI pipeline that extracts and transforms database data, calculates key KPIs, and visualizes metrics in Tableau dashboards to support cross-functional teams and executive decision-making
 
 
@@ -7,12 +7,8 @@ Develop an end-to-end e-commerce BI pipeline that extracts and transforms databa
 
 <img width="946" height="776" alt="image" src="https://github.com/user-attachments/assets/f9bc403f-aa76-4364-8cca-8c4d3dfb5e4e" />
 
-
-# E-Commerce BI Project – Analysis & Target KPIs Summary
-
 ## Project Objective
 Develop an end-to-end BI pipeline to analyze e-commerce sales, marketing campaigns, and customer behavior, and visualize key metrics in dashboards to support decision-making.
-
 ---
 
 ### 1️⃣ Sales & Revenue KPIs
