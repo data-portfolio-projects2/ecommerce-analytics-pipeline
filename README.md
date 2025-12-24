@@ -64,4 +64,4 @@
 ---
 
 ## Summary
-This BI project focuses on sales, marketing, customer, and product performance analysis. All KPIs are designed to support dashboard visualizations for monitoring revenue, campaign efficiency, product performance, and operational metrics.
+- This BI project focuses on sales, marketing, customer, and product performance analysis. All KPIs are designed to support dashboard visualizations for monitoring revenue, campaign efficiency, product performance, and operational metrics.
