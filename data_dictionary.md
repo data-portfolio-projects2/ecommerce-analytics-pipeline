@@ -11,7 +11,7 @@
 | **date** | object | Date the transaction or campaign activity occurred. Used for time-series analysis. |
 | **customer_name** | object | Full name of the customer. |
 | **email** | object | Customer email address. |
-| **customer_type** | object | Classification of customer (e.g., New, Returning). |
+| **customer_type** | object | Classification of customers based on purchase volume and frequency |
 | **country** | object | Customer country location (e.g., United States). |
 | **product_name** | object | Name of the product purchased. |
 | **category** | object | Product category (used as product line for performance analysis). |
