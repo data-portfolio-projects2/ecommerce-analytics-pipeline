@@ -5,6 +5,29 @@
 
 <img width="946" height="776" alt="image" src="https://github.com/user-attachments/assets/f9bc403f-aa76-4364-8cca-8c4d3dfb5e4e" />
 
+### ✅ Sales & Revenue Analysis
+| Field | Use |
+| :--- | :--- |
+| `order_id`, `order_item_id` | Order & item-level granularity |
+| `item_price`, `quantity` | Compute `item_revenue` = `item_price` × `quantity` |
+| `revenue` | Campaign / order revenue aggregation |
+| `product_id`, `product_name`, `category` | Product & category performance |
+| `date` | Time-series analysis (daily, monthly trends) |
+
+### ✅ Customer Analysis
+| Field | Use |
+| :--- | :--- |
+| `customer_id`, `customer_name`, `email` | Customer identification |
+| `customer_type` | New vs Returning / segmentation |
+| `country` | Geography / regional analysis |
+
+### ✅ Marketing & Campaign Performance
+| Field | Use |
+| :--- | :--- |
+| `campaign_id`, `channel_id`, `channel_name` | Campaign & channel attribution |
+| `platform_id`, `platform_name` | Platform-level performance |
+| `spend`, `clicks`, `orders` | CTR, Conversion Rate, ROAS, CPA |
+
 ## Project Objective
 - Develop an end-to-end BI pipeline to analyze e-commerce sales, marketing campaigns, and customer behavior, and visualize key metrics in dashboards to support decision-making.
 ---
