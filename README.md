@@ -2,7 +2,7 @@
 
 ### Database Schema
 
-<img width="1142" height="927" alt="image" src="https://github.com/user-attachments/assets/c3cf69f8-1d8e-430a-8505-c49a07000c94" />
+<img width="1142" height="936" alt="image" src="https://github.com/user-attachments/assets/5559ca5d-c612-4489-a1f4-b2a9186f9414" />
 
 ### ✅ Sales & Revenue Analysis
 | Field | Use |
