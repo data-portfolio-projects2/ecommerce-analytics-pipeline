@@ -1,4 +1,4 @@
-# E-Commerce BI Project – Analysis & Target KPIs Summary
+# E-Commerce BI Project – Analysis & Target KPIs
 
 ### Database Schema
 
